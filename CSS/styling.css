@@ -1,0 +1,27 @@
+span{
+    color: blue;
+}
+p{
+    color: blueviolet;
+}
+#span1 {
+    color: yellow;
+}
+#span2 {
+    color: aqua;
+}
+#box{
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    margin: 20px 30px 40px 50px;
+    border: 10px dashed blue;
+    border-radius: 400px;
+}
+#box1 {
+    background-color: blueviolet;
+    width: 300px;
+    height: 300px;
+    margin: 20px 40px;
+    border-radius: 50%;
+}
